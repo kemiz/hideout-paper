@@ -15,7 +15,7 @@ Hideout & Daycare staking is a straightforward, hassle free way for holders to p
 
 ### **Earning Rewards**
 
-1. Skvllpvnkz Hideout (fixed rewards): Each Skvllpvnkz Hideout NFT earns 2 $AMMO per day for their respective holder wallets. $AMMO are automatically accumulated and recorded for each Skvllpvnkz and holders can claim their rewards at any time. When claimed, the accumulated $AMMO tokens are deposited directly into the holder's wallet.
+1. Skvllpvnkz Hideout (fixed rewards): Each Skvllpvnkz Hideout NFT earns 2 $AMMO per day for their respective holder wallets. $AMMO is automatically accumulated and recorded for each Skvllpvnkz and holders can claim their rewards at any time. When claimed, the accumulated $AMMO tokens are deposited directly into the holder's wallet.
 2. Skvllpvnkz Daycare (fixed rewards): Each Skvllbabiez NFT will earn 4 $AMMO per day when staked in the Daycare. Skvllbabiez holders will need to manually stake in the Daycare staking wallet to start generating rewards. Rewards and staked NFTs can be managed via the Hideout staking platform. A gas fee is required to stake and un-stake Skvllbabiez.
 3. Hideout Missions: Skvllpvnkz NFTs can earn a variable amount of $AMMO via a staking mini-game where holders send their Skvllpvnkz to complete missions. NFTs are committed to a set mission duration. Rewards are distributed upon mission conclusion via a fixed or RNG loot system consisting of items and $AMMO. Missions are inherently more rewarding than staking in the Hideout.
 
