@@ -8,4 +8,4 @@ Skvllpvnkz Hideout holders will gain access to their Skvllpvnkz 3D model in late
 
 3Dpvnkz can be purchased with $AMMO. Holders of Skvllpvnkz Hideout who have had their NFTs since or before the 3D announcement (28.11.2021) will be airdropped enough tokens to purchase their 3Dpvnkz. New holders can stake their NFTs or purchase tokens in order to acquire their 3Dpvnkz. The decision to airdrop the tokens instead of the 3D models encourages the use of the Hideout economy through interaction with our governance token, ensuring a healthier market overall.
 
-Holders will have the flexibility to select which 3Dpvnkz they want to claim and which to leave unclaimed. Newcomers will be able to hunt for Skvllpvnkz NFTs that have not yet had their 3Dpvnkz claimed.
+Holders will have the flexibility to select which 3Dpvnkz they want to claim and which to leave unclaimed. Newcomers will be able to hunt for Skvllpvnkz NFTs that have not yet had a 3Dpvnkz claimed.
