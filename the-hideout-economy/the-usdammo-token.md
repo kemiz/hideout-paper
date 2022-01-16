@@ -81,4 +81,4 @@ Within the Hideout, holders can participate in missions and quests in return for
 
 * Staking for gaming, earning & rewards&#x20;
 
-> _Note: Details for the governance token ($_[_AMMO_](https://docs.google.com/document/d/1LwGlqJmXfjsiBZcviFrfYLBL1l\_KOxMr1mwotoAeAPA/edit#heading=h.4pqqkawmn4lk)_) are nearing completion and will be available in early Q1 2022._
+> _Note: Details for the governance token ($AMMO) are nearing completion and will be available in early Q1 2022._
