@@ -1,5 +1,5 @@
 ---
-description: Official Skvllpvnkz paper, last updated Jan 2022.
+description: Official Skvllpvnkz Development Paper, last updated Jan 2022.
 ---
 
 # Skvllpvnkz - The Hideout
