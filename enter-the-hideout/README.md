@@ -8,6 +8,6 @@ Our **Mission** is to explore the parallels between art, technology, gaming and 
 
 Our **Vision** is to create a powerful brand & platform connecting art, gaming, music and entertainment.
 
-Welcome to the Hideout.
+Welcome to the Hideout...
 
 ![](../.gitbook/assets/new.png)
