@@ -2,7 +2,7 @@
 
 ![](https://lh4.googleusercontent.com/WntShaCrv7Yhjj1g3skOEt0tkafE1tfy10-XHkfGAQOqyCetFxeqiXB2XZbcFC3FPrP6oAeffoGeesth8BAwWhjJG7qZNDWzq0TbEU48GM4sQpf2hDiCFGPRtjeZH3Ob8pnpD3pj)
 
-Skvllpvnkz Hideout holders will gain access to their Skvllpvnkz 3D model in late Q1 2022. These 3Dpvnkz will be ERC-721 tokens that can be used in partner metaverses and ultimately in the Hideout. Owners of Skvllpvnkz Hideout NFTs will be able to redeem a 3Dpvnkz for each Skvllpvnkz Hideout NFT. There is a limit of 1 model that can be created from each respective 2D Skvllpvnkz. 3Dpvnkz will enable holders to delve into exploring compatible collaborative metaverses.
+Skvllpvnkz Hideout holders will gain access to their Skvllpvnkz 3D model. 3Dpvnkz will enable holders to delve into exploring compatible collaborative metaverses.
 
 3Dpvnkz will reflect Skvllpvnkz in image, but they will not be directly linked to the 2D Skvllpvnkz NFTs on which they are modelled. 3Dpvnkz will eventually be extendable and customisable with items and wearables, to be released in due time. If a holder sells a Skvllpvnkz Hideout NFT, they are able to keep the 3D model NFT birthed from it. It is not transferred to the new owner by default. 3Dpvnkz will be created as unattached, independent NFTs which can be traded like any other.
 
