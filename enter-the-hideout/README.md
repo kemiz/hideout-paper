@@ -1,6 +1,6 @@
 # Enter the Hideout
 
-Hideout Labs, the crew behind Skvllpvnkz, is proud to be launching the Hideout: a platform for holders to earn, game, trade, learn and be part of an empowering and rapidly expanding community.
+Hideout Labs, the crew behind Skvllpvnkz, is proud to be launching the Hideout: a platform for holders to earn, game, trade, learn and be part of an empowering and expanding community.
 
 The Hideout enables holders to utilise their NFTs in return for rewards and a lot more. By evolving existing game formats with play-to-earn blockchain technology, Hideout Labs is putting together a collaborative and dynamic ecosystem governed through the $AMMO token.
 
